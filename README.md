@@ -4,6 +4,7 @@
 **Periodo analizado:** 1 de octubre de 2016 – 30 de septiembre de 2026  
 **Fuente de Datos:** Red Eléctrica de España (REE) – API eSIOS / Demanda Peninsular en Tiempo Real  
 **Herramientas de Visualización y ETL:** Python, Google Sheets, Data Studio (anteriormente Google Looker Studio)
+
 **URL:** https://datastudio.google.com/reporting/fcb1c364-d3b9-4ec0-b9cd-318a1a373f21
 
 ---
