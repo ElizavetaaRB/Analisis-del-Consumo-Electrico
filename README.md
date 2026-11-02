@@ -1,4 +1,4 @@
-# Informe de Investigación: Análisis del Consumo Eléctrico en España (2016–2026)
+# Análisis del Consumo Eléctrico en España (2016–2026)
 
 **Fecha de informe:** Octubre 2026  
 **Periodo analizado:** 1 de octubre de 2016 – 30 de septiembre de 2026  
